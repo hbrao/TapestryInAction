@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="ext-lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ext-lib/tapestry-3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ext-lib/commons-codec-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ext-lib/commons-digester-1.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ext-lib/javassist-2.5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ext-lib/commons-logging-1.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ext-lib/commons-fileupload-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ext-lib/commons-beanutils-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ext-lib/tapestry-contrib-3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ext-lib/ognl-2.6.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ext-lib/commons-lang-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ext-lib/commons-collections-2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ext-lib/jakarta-oro-2.0.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ext-lib/bsf-2.3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

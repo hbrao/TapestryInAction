@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/TapestryInAction.iml" filepath="$PROJECT_DIR$/.idea/TapestryInAction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bannerads/bannerads.iml" filepath="$PROJECT_DIR$/bannerads/bannerads.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examples-library/examples-library.iml" filepath="$PROJECT_DIR$/examples-library/examples-library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hangman1/hangman1.iml" filepath="$PROJECT_DIR$/hangman1/hangman1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hangman2/hangman2.iml" filepath="$PROJECT_DIR$/hangman2/hangman2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tiaexamples/tiaexamples.iml" filepath="$PROJECT_DIR$/tiaexamples/tiaexamples.iml" />
+    </modules>
+  </component>
+</project>
