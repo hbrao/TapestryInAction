@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0da6c65e-44ea-4964-9ed2-25812fe915f2" name="Changes" comment="Removed license files." />
+    <list default="true" id="0da6c65e-44ea-4964-9ed2-25812fe915f2" name="Changes" comment="Push all .idea files.">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -116,7 +118,7 @@
       <workItem from="1651789149653" duration="598000" />
       <workItem from="1652907285611" duration="4023000" />
       <workItem from="1653149994332" duration="1174000" />
-      <workItem from="1653151175668" duration="2350000" />
+      <workItem from="1653151175668" duration="2535000" />
     </task>
     <task id="LOCAL-00001" summary="Deleted files">
       <created>1653150315905</created>
@@ -202,7 +204,21 @@
       <option name="project" value="LOCAL" />
       <updated>1653153513373</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Push all .idea files.">
+      <created>1653153621143</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1653153621143</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Push all .idea files.">
+      <created>1653153629814</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1653153629814</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -231,6 +247,7 @@
     <MESSAGE value="Add examples-library.jar to .gitignore ." />
     <MESSAGE value="Delete examples-library.jar" />
     <MESSAGE value="Removed license files." />
-    <option name="LAST_COMMIT_MESSAGE" value="Removed license files." />
+    <MESSAGE value="Push all .idea files." />
+    <option name="LAST_COMMIT_MESSAGE" value="Push all .idea files." />
   </component>
 </project>
