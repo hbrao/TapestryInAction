@@ -18,10 +18,10 @@ and deploy them into Tomcat.
 
 You may then launch Tomcat to execute the examples. The examples consist of four seperate Tapestry applications:
 
+* http://localhost:8080/tiaexamples/app
 * http://localhost:8080/bannerads
 * http://localhost:8080/hangman1/app
 * http://localhost:8080/hangman2/app
-* http://localhost:8080/tiaexamples/app
 
 
 The Tapestry 3.0 libraries and dependencies are now directly included with this distribution. This distribution has been tested with Tomcat 5.0.25 on Windows XP.
