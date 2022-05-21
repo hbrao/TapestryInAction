@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0da6c65e-44ea-4964-9ed2-25812fe915f2" name="Changes" comment="Cleanup duplicate log4j and servlet-api.jar .">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build.xml" afterDir="false" />
+    <list default="true" id="0da6c65e-44ea-4964-9ed2-25812fe915f2" name="Changes" comment="Add validation to check for presence of tomcat directory.">
       <change beforePath="$PROJECT_DIR$/common/build.properties" beforeDir="false" afterPath="$PROJECT_DIR$/common/build.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -235,7 +233,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653155658170</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Add validation to check for presence of tomcat directory.">
+      <created>1653156142406</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1653156142406</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -267,6 +272,7 @@
     <MESSAGE value="Push all .idea files." />
     <MESSAGE value="Push .idea files." />
     <MESSAGE value="Cleanup duplicate log4j and servlet-api.jar ." />
-    <option name="LAST_COMMIT_MESSAGE" value="Cleanup duplicate log4j and servlet-api.jar ." />
+    <MESSAGE value="Add validation to check for presence of tomcat directory." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add validation to check for presence of tomcat directory." />
   </component>
 </project>
