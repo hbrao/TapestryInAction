@@ -25,7 +25,7 @@ and deploy them into Tomcat. You may then launch Tomcat to execute the examples.
 
 The examples consist of four seperate Tapestry applications:
 
-[http://localhost:8080/hangman1/app]
+[http://localhost:8080/hangman1/app](http://localhost:8080/hangman1/app)
 [http://localhost:8080/tiaexamples/app]
 [http://localhost:8080/hangman2/app]
 [http://localhost:8080/bannerads]
