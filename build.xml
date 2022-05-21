@@ -1,6 +1,19 @@
 <?xml version="1.0"?>
 <project name="Tapestry Book Examples" default="deploy">
 
+	<macrodef name="assertDirAvailable">
+		<attribute name="dir" />
+		<sequential>
+			<fail message="The directory '@{dir}' was expected to be available but is not">
+				<condition>
+					<not>
+						<available file="@{dir}" type="dir" />
+					</not>
+				</condition>
+			</fail>
+		</sequential>
+	</macrodef>
+
 	<property name="ant.build.javac.source" value="1.4"/>
 	<property name="ant.build.javac.target" value="1.8"/>
 
@@ -51,7 +64,10 @@
 		<fail unless="exists.build.properties"
 			message="${props.file} does not exist.  See ${props.file}.template for instructions."/>
 	
-    	<property file="${props.file}"/>
+		<property file="${props.file}"/>
+
+		<assertDirAvailable dir="${tomcat.dir}" />
+
 	</target>
 	
 	<target name="dist" depends="clean" description="Builds the source distribution.">
