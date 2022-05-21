@@ -309,7 +309,6 @@ fi
 
 # Make the umask available when using the org.apache.catalina.security.SecurityListener
 JAVA_OPTS="$JAVA_OPTS -Dorg.apache.catalina.security.SecurityListener.UMASK=`umask`"
-JAVA_OPTS="$JAVA_OPTS -Dlog4j.configuration=/Users/hanumantha.banda/Documents/GitHub/TapestryInAction/runtime/apache-tomcat-8.5.78/shared/classes/log4j.properties"
 
 if [ -z "$USE_NOHUP" ]; then
     if $hpux; then
