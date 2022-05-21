@@ -2,3 +2,4 @@
 **/webapps/**
 **/target/**
 examples-library.jar
+.idea/workspace.xml
