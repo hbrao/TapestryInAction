@@ -47,11 +47,11 @@
 			 		
    		<property file="${props.file}"/>
 
-   		<copy todir="${tomcat.dir}/shared/lib">
+   		<copy todir="${user.dir}/runtime/apache-tomcat-8.5.78/shared/lib">
    		  <fileset dir="runtime-lib" includes="*.jar"/>
    		</copy>
    		
-   		<copy file="common/log4j.properties" todir="${tomcat.dir}/shared/classes"/>
+   		<copy file="common/log4j.properties" todir="${user.dir}/runtime/apache-tomcat-8.5.78/shared/classes"/>
    		
 	</target>
 	
@@ -66,7 +66,7 @@
 	
 		<property file="${props.file}"/>
 
-		<assertDirAvailable dir="${tomcat.dir}" />
+		<assertDirAvailable dir="${user.dir}" />
 
 	</target>
 	

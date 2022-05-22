@@ -24,7 +24,7 @@
 	
 	<!-- We expect Tomcat 5.0 to be available. -->
 	
-	<property name="servlet.jar" value="${tomcat.dir}/lib/servlet-api.jar"/>
+	<property name="servlet.jar" value="${user.dir}/runtime/apache-tomcat-8.5.78/lib/servlet-api.jar"/>
 		
 	<path id="project.class.path">
 		<fileset dir="../ext-lib" includes="*.jar"/>
