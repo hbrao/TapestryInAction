@@ -14,5 +14,9 @@ You may then launch Tomcat to execute the examples. The examples consist of four
 * http://127.0.0.1:8081/hangman1/app
 * http://127.0.0.1:8081/hangman2/app
 
+Admin Console (admin/admin)
+
+* http://127.0.0.1:8081/
+
 
 The Tapestry 3.0 libraries and dependencies are now directly included with this distribution.
