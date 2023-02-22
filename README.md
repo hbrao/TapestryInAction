@@ -7,12 +7,12 @@ This distribution contains example source code to accompany the book:
   
 Execute the command `ant deploy` to build the examples and deploy them into Tomcat. 
 
-You may then launch Tomcat to execute the examples. The examples consist of four seperate Tapestry applications:
+You may then launch Tomcat to execute the examples. The examples consist of four separate Tapestry applications:
 
-* http://localhost:8080/tiaexamples/app
-* http://localhost:8080/bannerads
-* http://localhost:8080/hangman1/app
-* http://localhost:8080/hangman2/app
+* http://127.0.0.1:8081/tiaexamples/app
+* http://127.0.0.1:8081/bannerads
+* http://127.0.0.1:8081/hangman1/app
+* http://127.0.0.1:8081/hangman2/app
 
 
 The Tapestry 3.0 libraries and dependencies are now directly included with this distribution.
